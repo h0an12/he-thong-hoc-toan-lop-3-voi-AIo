@@ -1,4 +1,4 @@
-.<h2 align="center">
+<h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Khoa Công nghệ thông tin (Đại học Đại Nam) 🎓
     </a>
@@ -275,10 +275,6 @@ python backend/app.py
 Bước 5: Truy cập ứng dụng
 Mở trình duyệt và truy cập: http://localhost:5000
 
-🔑 4.3 Tài khoản Mẫu
-Username: demo
-
-Password: demo123
  ## 🚀 5. Một số hình ảnh hệ thống
  ### Giao diện Đăng nhập ĐK
 
@@ -465,7 +461,6 @@ Nếu có bất kỳ thắc mắc hoặc cần hỗ trợ, vui lòng liên hệ:
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
 
-</div>
 
 
 
